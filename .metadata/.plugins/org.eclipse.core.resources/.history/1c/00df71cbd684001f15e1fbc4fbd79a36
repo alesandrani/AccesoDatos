@@ -1,0 +1,18 @@
+package modelo.negocio;
+
+import modelo.entidades.Usuario;
+import modelo.persistencia.DaoUsuarioFichero;
+
+public class GestorUsuario {
+	
+	private DaoUsuarioFichero duf;
+	
+	public boolean validar(Usuario u) {
+		duf = new DaoUsuarioFichero();
+		try {
+			Usuario uFichero = duf.getByName(u.getNombre());
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+	}
+}

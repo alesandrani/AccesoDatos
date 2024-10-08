@@ -1,0 +1,12 @@
+package mainApp;
+
+import interfaz.InterfazUsuario;
+
+public class MainFicherosç {
+
+	public static void main(String[] args) {
+		new InterfazUsuario().mostrarInterfaz();;
+		
+	}
+
+}
