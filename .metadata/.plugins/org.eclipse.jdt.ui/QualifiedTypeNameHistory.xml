@@ -6,4 +6,5 @@
     <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
     <fullyQualifiedTypeName name="modelo.persistencia.DaoUsuarioFichero"/>
     <fullyQualifiedTypeName name="modelo.entidades.Usuario"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.AnnotatedArrayType"/>
 </qualifiedTypeNameHistroy>
