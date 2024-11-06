@@ -1,5 +1,0 @@
-package modelo.persistencia;
-
-public class DaoUsuarioFichero {
-
-}
