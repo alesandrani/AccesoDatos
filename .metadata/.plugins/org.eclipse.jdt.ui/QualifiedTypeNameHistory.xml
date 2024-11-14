@@ -7,4 +7,5 @@
     <fullyQualifiedTypeName name="modelo.persistencia.DaoUsuarioFichero"/>
     <fullyQualifiedTypeName name="modelo.entidades.Usuario"/>
     <fullyQualifiedTypeName name="java.lang.reflect.AnnotatedArrayType"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
